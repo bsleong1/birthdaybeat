@@ -1,0 +1,10 @@
+# Customer data must never be committed
+output/
+*.xlsx
+*.xls
+*.csv
+*.pdf
+weekly-log.txt
+# Personal settings (copy config.example.json to config.json)
+config.json
+node_modules/

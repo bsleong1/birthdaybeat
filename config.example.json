@@ -1,0 +1,12 @@
+{
+  "dataFile": "../customers.xlsx",
+  "contactsFile": "BirthdayBeat Contacts.xlsx",
+  "outputDir": "output",
+  "senderName": "",
+  "company": "",
+  "useManager": true,
+  "cardLang": "all",
+  "days": 10,
+  "remindDays": 3,
+  "dateOrder": null
+}
