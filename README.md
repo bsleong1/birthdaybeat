@@ -6,6 +6,12 @@ It never sends anything by itself. You check each message and press Send.
 
 **▶ Open the app: https://bsleong1.github.io/birthdaybeat/** (works on phone and PC; your customer data stays in your own browser).
 
+**Put it on your phone's home screen:**
+- **Android (Chrome):** open the link, tap **⋮** in the top-right corner, then tap **Add to Home screen** (or **Install app**), then **Install**.
+- **iPhone (Safari):** open the link, tap the **Share** button (the square with an arrow), then tap **Add to Home Screen**, then **Add**.
+
+It then opens full-screen like a normal app, with its own icon, and works without internet once it has been opened once.
+
 ## What it does
 
 - **Weekly reminder.** Every Monday it lists the birthdays for the next 10 days, so each one shows up at least **3 days ahead**.
