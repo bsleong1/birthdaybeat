@@ -4,6 +4,8 @@
 
 It never sends anything by itself. You check each message and press Send.
 
+**▶ Open the app: https://bsleong1.github.io/birthdaybeat/** (works on phone and PC; your customer data stays in your own browser).
+
 ## What it does
 
 - **Weekly reminder.** Every Monday it lists the birthdays for the next 10 days, so each one shows up at least **3 days ahead**.
